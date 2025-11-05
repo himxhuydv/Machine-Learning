@@ -1,4 +1,4 @@
-# Feature Engineering 
+# Feature Engineering (Feature stand for new piece of advice or new piece of information)
 improving the dataset so that the model  can learn  patterns efficiently.improving dataset can be in done in anyway  so that the model can learn patterns efficiently.if we elaborate that Feature scaling:making the higher value and smaller value equal
 As simple is the defination as simple it works too.So,let's example of adding a New Feature(coloum)to the dataset so let take any dataset having feature name,age,employee id and you the new Feature(new coloumn) Salary gets add into the dataset so you just have to write feature code for adding new feature(new coloumn) and bom!!.A new coloumn will added in to the dataset this what Feature Engineering truly is you just added a new feature to your dataset.So.doing this make your data more elaborate and elaborating more help model to learn pattern efficiently.this is one of the
 ways of improving the dataset for the model to learn the pattern efficiently. 
