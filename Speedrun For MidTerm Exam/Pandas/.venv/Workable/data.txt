@@ -1,0 +1,3 @@
+FIRST U NEED TO KNOW WHY WE NEED TO KNOW ABOUT DATASET
+1.Understand about the Dataset how it actually how many rows how many columns are there in the set,which type of data it is and columns name etc,
+2.identify the problem(duplicate problem,incorrect data) 

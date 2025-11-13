@@ -1,0 +1,15 @@
+problem in the data 
+1.don't know te columns ,rows?
+2.what type of data in  the column?
+3.we don't the missing data in the column 
+
+
+For solving this we can use the method -: 
+info()
+
+we can know these type of detail in the info()
+1.number of rows and columns
+2.coloumn name
+3.int64 flaot 64 object 
+4.non null counts 
+5.memory usage of the Dataframe
