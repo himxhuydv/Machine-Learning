@@ -7,3 +7,4 @@ Let's take a example: a large data set having correlated feature like this
   example:PCA can transform 500d-20d so that human can understand that relation and model can speed increase and accuracy increase.
   #### Linear algebra 
   Why do we need to PCA? 
+to reduce large feature into small feature reducing
