@@ -11,7 +11,7 @@ OR
 3.One order is $10000000 dollar such a big amount.probably be error or the customer ordered this by mistake.
 **These are the reason why we need the Data cleaning techniques**
 # Data cleaning
-
+basically that literally mean identifying and removing any missing values,duplicate or irrelevant data.because the raw data is often is noisy,incomplete and inconsistent which can be negatively impact the model accuracy of the model.
 
 
 # Basic benefit of the data cleaning 
@@ -20,3 +20,15 @@ OR
 3.Accuracy and efficency rises (which resultant for the model to learn patterns and all more fast and easily )
 4.Complete Data (model get's the data that he actually required)
 5.Maintain Data Consistency (mean the data which is present needs to be logical and uniform can't create noise kind of)
+ 
+# Data Cleaning Techniques 
+1.Missing Values handling(remove the missing values from the data.)
+2.De-Duplication(removing the same number of duplicate values)
+3.Outlier Detection(Removing the outlier from the section )
+ 
+### What will happened to the model if we didn't apply the data cleaning techniques to the model.
+1.First and most simple is model will become bias and will not learn patterns effectively.
+2.Accuracy will also get effected and the output or prediction will also be wrong.
+3.Overfitting model (may learn noise instead of real data)
+4.Traning become unstable(because the model is learning on the missing values,error duplication)
+4.Doesn't consider the feature(Important feature become less important or may not be consider by the model)
