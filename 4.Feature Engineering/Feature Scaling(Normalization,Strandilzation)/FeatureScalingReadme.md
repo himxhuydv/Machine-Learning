@@ -5,6 +5,7 @@ It is part of feature engineering.
 
 ## Why do we need Feature Scaling?
 To prevent the model from being bias towards larger numbers.
+Model which are based on the distance or gradient will fail because they consider the larger as dominant.model are like KNN,SVM,NN.
 
 Different features often have different scales:
 
