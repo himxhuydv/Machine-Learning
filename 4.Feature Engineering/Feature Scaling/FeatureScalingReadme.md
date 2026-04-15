@@ -3,7 +3,8 @@ Feature scaling is a data preprocessing technique used to transform numerical fe
 
 It is part of feature engineering.
 
-Why do we need Feature Scaling?
+## Why do we need Feature Scaling?
+To prevent the model from being bias towards larger numbers.
 
 Different features often have different scales:
 
